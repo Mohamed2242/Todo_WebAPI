@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Web Projects\\,Net\\ToDoList WebAPI\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF58A49F-538A-4107-B4B8-292AFB36244D}|WebAPI\\WebAPI.csproj|e:\\web projects\\,net\\todolist webapi\\webapi\\webapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF58A49F-538A-4107-B4B8-292AFB36244D}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF58A49F-538A-4107-B4B8-292AFB36244D}|WebAPI\\WebAPI.csproj|e:\\web projects\\,net\\todolist webapi\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF58A49F-538A-4107-B4B8-292AFB36244D}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF58A49F-538A-4107-B4B8-292AFB36244D}|WebAPI\\WebAPI.csproj|e:\\web projects\\,net\\todolist webapi\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF58A49F-538A-4107-B4B8-292AFB36244D}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF58A49F-538A-4107-B4B8-292AFB36244D}|WebAPI\\WebAPI.csproj|e:\\web projects\\,net\\todolist webapi\\webapi\\webapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF58A49F-538A-4107-B4B8-292AFB36244D}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF58A49F-538A-4107-B4B8-292AFB36244D}|WebAPI\\WebAPI.csproj|e:\\web projects\\,net\\todolist webapi\\webapi\\webapi\\models\\filters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF58A49F-538A-4107-B4B8-292AFB36244D}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\filters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF58A49F-538A-4107-B4B8-292AFB36244D}|WebAPI\\WebAPI.csproj|e:\\web projects\\,net\\todolist webapi\\webapi\\webapi\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF58A49F-538A-4107-B4B8-292AFB36244D}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF58A49F-538A-4107-B4B8-292AFB36244D}|WebAPI\\WebAPI.csproj|e:\\web projects\\,net\\todolist webapi\\webapi\\webapi\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF58A49F-538A-4107-B4B8-292AFB36244D}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF58A49F-538A-4107-B4B8-292AFB36244D}|WebAPI\\WebAPI.csproj|e:\\web projects\\,net\\todolist webapi\\webapi\\webapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF58A49F-538A-4107-B4B8-292AFB36244D}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF58A49F-538A-4107-B4B8-292AFB36244D}|WebAPI\\WebAPI.csproj|e:\\web projects\\,net\\todolist webapi\\webapi\\webapi\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF58A49F-538A-4107-B4B8-292AFB36244D}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF58A49F-538A-4107-B4B8-292AFB36244D}|WebAPI\\WebAPI.csproj|e:\\web projects\\,net\\todolist webapi\\webapi\\webapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF58A49F-538A-4107-B4B8-292AFB36244D}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF58A49F-538A-4107-B4B8-292AFB36244D}|WebAPI\\WebAPI.csproj|e:\\web projects\\,net\\todolist webapi\\webapi\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DF58A49F-538A-4107-B4B8-292AFB36244D}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1337924956:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1449176975:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Web Projects\\,Net\\ToDoList WebAPI\\WebAPI\\WebAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Web Projects\\,Net\\ToDoList WebAPI\\WebAPI\\WebAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T00:34:08.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Web Projects\\,Net\\ToDoList WebAPI\\WebAPI\\WebAPI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Web Projects\\,Net\\ToDoList WebAPI\\WebAPI\\WebAPI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAuwFwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T00:36:30.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ToDo.cs",
+              "DocumentMoniker": "E:\\Web Projects\\,Net\\ToDoList WebAPI\\WebAPI\\WebAPI\\Models\\ToDo.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\ToDo.cs",
+              "ToolTip": "E:\\Web Projects\\,Net\\ToDoList WebAPI\\WebAPI\\WebAPI\\Models\\ToDo.cs",
+              "RelativeToolTip": "WebAPI\\Models\\ToDo.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAmwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T00:32:53.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Status.cs",
+              "DocumentMoniker": "E:\\Web Projects\\,Net\\ToDoList WebAPI\\WebAPI\\WebAPI\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Status.cs",
+              "ToolTip": "E:\\Web Projects\\,Net\\ToDoList WebAPI\\WebAPI\\WebAPI\\Models\\Status.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T00:33:03.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\Web Projects\\,Net\\ToDoList WebAPI\\WebAPI\\WebAPI\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Category.cs",
+              "ToolTip": "E:\\Web Projects\\,Net\\ToDoList WebAPI\\WebAPI\\WebAPI\\Models\\Category.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T00:33:15.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StatusController.cs",
+              "DocumentMoniker": "E:\\Web Projects\\,Net\\ToDoList WebAPI\\WebAPI\\WebAPI\\Controllers\\StatusController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\StatusController.cs",
+              "ToolTip": "E:\\Web Projects\\,Net\\ToDoList WebAPI\\WebAPI\\WebAPI\\Controllers\\StatusController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\StatusController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T03:32:16.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\Web Projects\\,Net\\ToDoList WebAPI\\WebAPI\\WebAPI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\Web Projects\\,Net\\ToDoList WebAPI\\WebAPI\\WebAPI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwBcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T03:30:39.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Web Projects\\,Net\\ToDoList WebAPI\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "E:\\Web Projects\\,Net\\ToDoList WebAPI\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T00:49:18.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Web Projects\\,Net\\ToDoList WebAPI\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "E:\\Web Projects\\,Net\\ToDoList WebAPI\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T00:32:13.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Filters.cs",
+              "DocumentMoniker": "E:\\Web Projects\\,Net\\ToDoList WebAPI\\WebAPI\\WebAPI\\Models\\Filters.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Filters.cs",
+              "ToolTip": "E:\\Web Projects\\,Net\\ToDoList WebAPI\\WebAPI\\WebAPI\\Models\\Filters.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Filters.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T00:33:05.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WebAPI.csproj",
+              "DocumentMoniker": "E:\\Web Projects\\,Net\\ToDoList WebAPI\\WebAPI\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
+              "ToolTip": "E:\\Web Projects\\,Net\\ToDoList WebAPI\\WebAPI\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T00:28:50.365Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

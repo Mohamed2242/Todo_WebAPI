@@ -11,6 +11,7 @@ build_property.RootNamespace = WebAPI
 build_property.RootNamespace = WebAPI
 build_property.ProjectDir = E:\Web Projects\,Net\ToDoList WebAPI\WebAPI\WebAPI\
 build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
